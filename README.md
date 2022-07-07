@@ -6,6 +6,6 @@ A criação do projeto foi feita utilizando o [ViteJs](https://vitejs.dev)
 ### Para rodar o projeto é necessário:
   - Acessar a pasta raiz
   - Digitar `npm install` no console para instalar todas as dependências necessárias
-  - Digitar `npm run dev` para abrir iniciar o localhost 
+  - Digitar `npm run dev` para iniciar o localhost 
 
 Todas as alterações são feitas em tempo real de compilação
